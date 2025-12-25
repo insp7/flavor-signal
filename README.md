@@ -11,11 +11,15 @@ By extracting a clear signal from noisy reviews, FlavorSignal helps users cut th
 Below are screenshots of the current Flavor Signal interface, showcasing the light, minimal UI and item-specific review summaries.
 
 <p align="center">
-  <img src="https://github.com/insp7/flavor-signal/blob/master/public/images/pic2.PNG" alt="Flavor Signal – Search & Input UI" width="90%">
+  <img src="https://github.com/insp7/flavor-signal/blob/master/public/images/pic7.PNG" alt="Flavor Signal – Search & Input UI">
 </p>
 
 <p align="center">
-  <img src="public/images/pic4.png" alt="Flavor Signal – Item-Specific Review Summaries" width="90%">
+  <img src="https://github.com/insp7/flavor-signal/blob/master/public/images/pic4.PNG" alt="Flavor Signal – Item-Specific Review Summaries" width="90%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/insp7/flavor-signal/blob/master/public/images/pic6.PNG" alt="Flavor Signal – Full Page" width="90%">
 </p>
 
 ## APIs used
