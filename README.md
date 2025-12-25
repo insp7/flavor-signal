@@ -1,4 +1,4 @@
-﻿# FlavorSignal — Cut through the noise
+﻿# Flavor Signal — Cut through the noise
 
 When you search for a specific dish near you—say on Google Maps—you’re shown a list of restaurants. To decide what to order, you start reading reviews, only to realize most of them talk about the restaurant in general, not the dish you’re actually interested in. Finding real opinions about that one item means scrolling endlessly and hoping someone mentions it.
 
@@ -6,10 +6,17 @@ FlavorSignal solves this by analyzing reviews at the dish level. It identifies a
 
 By extracting a clear signal from noisy reviews, FlavorSignal helps users cut through the noise.
 
-## Features
-- Find nearby restaurants that serve the dish you’re looking for.
-- Summarize only the reviews that actually mention your dish—even when people use different names or terms (e.g., searches for hot chocolate also capture mentions of hot cocoa) i.e. semantic filtering before summarization.
-- Get a clear, item-level summary with key positives, negatives, and common complaints, so you can decide without reading every review.
+## Interface Preview
+
+Below are screenshots of the current Flavor Signal interface, showcasing the light, minimal UI and item-specific review summaries.
+
+<p align="center">
+  <img src="public/images/pic5.png" alt="Flavor Signal – Search & Input UI" width="90%">
+</p>
+
+<p align="center">
+  <img src="public/images/pic4.png" alt="Flavor Signal – Item-Specific Review Summaries" width="90%">
+</p>
 
 ## APIs used
 - SerpAPI Google Maps and Google Maps Reviews endpoints for place search and review retrieval.
@@ -17,19 +24,28 @@ By extracting a clear signal from noisy reviews, FlavorSignal helps users cut th
 
 ## Setup
 1) Create a virtual environment (optional but recommended).
-2) Install core deps: `pip install serpapi requests sentence-transformers`.
+2) Install core deps: `pip install serpapi requests sentence-transformers` OR better just install as per requirements.txt.
 3) Environment variables:
    - `SERPAPI_API_KEY` (required) – your SerpAPI key for Google Maps endpoints.
    - `OLLAMA_URL` (default `http://localhost:11434/api/generate`).
    - `OLLAMA_MODEL` (default `phi3:mini`).
 4) Ensure Ollama is installed and running and the chosen model is available.
 
-## Running the main flow
-1) Edit `location` and `item` near the bottom of `pipeline.py` to the place and dish you want.
-2) Run: `python pipeline.py`.
-   - The script searches for places, fetches up to 120 reviews each, saves them under `reviews/{place}_all_reviews.json`, filters for mentions of your item, and prints a natural-language summary per place.
+## Future Scope / TODO
 
-## Directory structure
-- `pipeline.py` – semantic filtering + summarization pipeline.
-- `serp_api_access.py` – SerpAPI helpers to search places and fetch reviews.
-- `reviews/` – example JSON review dumps; scripts write new files here.
+Flavor Signal currently runs on a local setup with an RTX 3070. While this setup works well for experimentation and correctness, local LLM inference introduces noticeable latency during summarization. Reducing end-to-end response time is a key focus going forward.
+
+Planned optimizations and architectural improvements include:
+
+- **Batch summarization in a single LLM call**  
+  Instead of calling the summarization model once per restaurant, build a single prompt that includes top review snippets for all restaurants and ask the model to return structured (JSON) summaries for each place.  
+  This reduces *N* LLM calls to **1**, and is expected to provide the largest performance improvement.
+
+- **Progressive / streaming results (UX-focused change)**  
+  Move toward a progressive response architecture:
+  - Immediately return the list of restaurants with mention counts (fast).
+  - Stream dish-level summaries as they complete using Server-Sent Events (SSE) or WebSockets.
+  
+  Even if total processing time remains ~10–12 seconds, this approach dramatically improves perceived latency and user experience by delivering useful information within the first few seconds.
+
+These changes aim to make Flavor Signal feel responsive and interactive while preserving the quality and interpretability of dish-level summaries.

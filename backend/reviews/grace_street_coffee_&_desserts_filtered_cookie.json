@@ -1,0 +1,269 @@
+[
+  {
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2toUU1IUklYemR2VWpkT1YwZHdiV3hsTFdSNFJtYxAB!2m1!1s0x0:0xea388e8841a2955e!3m1!1s2@1:CAIQACodChtycF9oOkhQMHRIXzdvUjdOV0dwbWxlLWR4Rmc%7C0d67SW9hdVm%7C?hl=en-US",
+    "rating": 4.0,
+    "date": "Edited a month ago",
+    "iso_date": "2025-11-11T20:31:11Z",
+    "iso_date_of_last_edit": "2025-11-18T14:49:05Z",
+    "images": [
+      "https://lh3.googleusercontent.com/geougc-cs/AMBA38s_IqbId-Tidpoh9mynuuJIwmcIl42idD6V57O0OHO1fh1BzbIhl7snq5pUUekeWwm32sVA463al1J3UYhgB-VO2mxe3Bp7CZZ0mUAL69HZbRyV6OOtKPRZYqgVD4HIlzeIwOOgQ2mpiTE",
+      "https://lh3.googleusercontent.com/geougc-cs/AMBA38vWscUq8N7zZ6n9ZuJDwNttqyr-9YnPA6dgN9jAfBPPvx603PnS3H8HJNoCcVTw8TA1KQ-L0myTTwhCYPpJcO5XQoXrwZ0RLdmiZyHnaO6zAcCitoureGpspO_tsjioVzGTJH72y2uaYlwt"
+    ],
+    "source": "Google",
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toUU1IUklYemR2VWpkT1YwZHdiV3hsTFdSNFJtYxAB",
+    "user": {
+      "name": "Nacho Gonzalez Iglesias",
+      "link": "https://www.google.com/maps/contrib/103782635000686070336?hl=en-US",
+      "contributor_id": "103782635000686070336",
+      "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVPyZlFNptlbx5cDv4WF-EE5eMPtHC8WdlL4HRX4tg2r0pv8vTGuw=s120-c-rp-mo-ba4-br100",
+      "local_guide": true,
+      "reviews": 93,
+      "photos": 88
+    },
+    "snippet": "Grace Street Coffee & Desserts is the perfect place to complete the Korean dining experience with something sweet.\nWe tried the Cookie Monster, simple but fun, and the kids loved it.\nThe adults went for the Basque cheesecake; not quite like the original version from Spain, but still very good.\nOverall, it is a cozy spot with creative desserts and a nice atmosphere, ideal for families or anyone craving a treat after Korean BBQ",
+    "extracted_snippet": {
+      "original": "Grace Street Coffee & Desserts is the perfect place to complete the Korean dining experience with something sweet.\nWe tried the Cookie Monster, simple but fun, and the kids loved it.\nThe adults went for the Basque cheesecake; not quite like the original version from Spain, but still very good.\nOverall, it is a cozy spot with creative desserts and a nice atmosphere, ideal for families or anyone craving a treat after Korean BBQ"
+    },
+    "details": {
+      "price_per_person": "$10–20",
+      "food": 4,
+      "service": 3,
+      "atmosphere": 5,
+      "noise_level": "Loud, but you can still talk",
+      "wait_time": "No wait"
+    },
+    "_matched_query": "cookie",
+    "_matched_variants": [
+      "cookie"
+    ]
+  },
+  {
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xkUlZuZDBiMnhDVGxsc1ZXVktRMVZvV25scFVYYxAB!2m1!1s0x0:0xea388e8841a2955e!3m1!1s2@1:CAIQACodChtycF9oOldRVnd0b2xCTllsVWVKQ1VoWnlpUXc%7C0cRIRYMMuYZ%7C?hl=en",
+    "rating": 2.0,
+    "date": "5 months ago",
+    "iso_date": "2025-07-11T16:09:07Z",
+    "iso_date_of_last_edit": "2025-07-11T16:09:07Z",
+    "images": [
+      "https://lh3.googleusercontent.com/geougc-cs/AMBA38vrnQk7GLGuP-iMygTeaBfeSjY7jBDzmlDDe6z0sqnOhBcNfPApF_bNVC6cH3nH0QBMA0eeEknuVR0FWf7GhR5IDrlR4vzqn9o8RHeLzU3g0R1rNRNC3exJE-8J_qU5A0qzEVhmPYWnR48",
+      "https://lh3.googleusercontent.com/geougc-cs/AMBA38swvVCNX3KZ33bY3qvp0DXLh69Hp9CQCOGunmuiAvOrmxaiXp2nFIgM78XR_lvrSyjVxR0Ex0IjRKP4eWwPEnzxcgiONgsl2Hbxl1o-ySB2HJVaEnzYcgKWe72G1y1cKAUK0e_xFsICohI"
+    ],
+    "source": "Google",
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkUlZuZDBiMnhDVGxsc1ZXVktRMVZvV25scFVYYxAB",
+    "user": {
+      "name": "Alisha B",
+      "link": "https://www.google.com/maps/contrib/108046256795080230882?hl=en",
+      "contributor_id": "108046256795080230882",
+      "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVtYwS37wMdecELHVk3xGm3BlRLHvp54pnDxgNKNZhvtC8FLzkU=s120-c-rp-mo-ba4-br100",
+      "local_guide": true,
+      "reviews": 96,
+      "photos": 296
+    },
+    "snippet": "1st time here, moved pretty quick when I came. You order and pay 1st at the counter when you enter then you choose a seat. We got the Cookie Monster shaved snow and this fruit sugared on a stick. Both were a no for me. The ice cream tasted flavorless and I didn’t see the hype. Topping on he side and the portion is good for 3 people. We all weren’t a fan. The sugared Hulu stick was messy. Sugared crystals fell off when biting into it. Wasn’t for me. Plenty of seating inside. No parking.",
+    "extracted_snippet": {
+      "original": "1st time here, moved pretty quick when I came. You order and pay 1st at the counter when you enter then you choose a seat. We got the Cookie Monster shaved snow and this fruit sugared on a stick. Both were a no for me. The ice cream tasted flavorless and I didn’t see the hype. Topping on he side and the portion is good for 3 people. We all weren’t a fan. The sugared Hulu stick was messy. Sugared crystals fell off when biting into it. Wasn’t for me. Plenty of seating inside. No parking."
+    },
+    "details": {
+      "food": 2,
+      "service": 4,
+      "atmosphere": 4,
+      "noise_level": "Loud, but you can still talk",
+      "wait_time": "Up to 10 min"
+    },
+    "_matched_query": "cookie",
+    "_matched_variants": [
+      "cookie"
+    ]
+  },
+  {
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnTUNJcnNMdTF3RRAB!2m1!1s0x0:0xea388e8841a2955e!3m1!1s2@1:CIHM0ogKEICAgMCIrsLu1wE%7CCgsIibayvwYQ-MbqCA%7C?hl=en",
+    "rating": 3.0,
+    "date": "8 months ago",
+    "iso_date": "2025-04-02T01:59:32Z",
+    "iso_date_of_last_edit": "2025-04-02T02:03:53Z",
+    "images": [
+      "https://lh3.googleusercontent.com/geougc-cs/AMBA38uSvAgGnl6PbBTLIPGWP6NjYKgy4iLp9qqeJluTDF1R8QhVOpBGQmcKxAoZOlgRmROZUFi2mBU-6pY15VBjxKBdtt3FvC5CfPxE1IzmrKCdhCb9yZPALZiV3bNuQOFkGV39RCGL",
+      "https://lh3.googleusercontent.com/geougc-cs/AMBA38t5e0WncEg63gTpt2lEoozSLODXLPiT29UPeYkXfuN7VirSqgy8lU8Bpv9b56j2BMI6XoW_KST3RBEF-TkXywleZ_aYWu4QZD8AWHwbg_EUYRkI2AOHCHb9az0W-2esCsVEJ6ZG",
+      "https://lh3.googleusercontent.com/geougc-cs/AMBA38skAbrcemE8o3HxZlCSVOspd_r6Hoe6UXpigCiIkGYj-zOVPNnULCLBoaVIngq6lxLehLp6t7bOfMe_chr5d2ff-5EO94W-hSmlYdaxgm21tmQllJqwVelylfguJRU6Q8QhWmPeAQ",
+      "https://lh3.googleusercontent.com/geougc-cs/AMBA38vzLyhpiLaSIGN6PB816WPw6LuRYTm3B5Ea8VnsVYAASvFdYpLu55lEIVxyibXTGEfHB4ie_9xpOmE1znKsIwPgVks0owP6T7qMRMisgPejXI28OBSJ9zJ8hvl1SSvynIaAFPY",
+      "https://lh3.googleusercontent.com/geougc-cs/AMBA38tRgswfb9twBsX0YwloF2fOwou_788UMlHVUmHVAWTHg5Gol7l859OLt-GRdz2lExqd7_c9S0F0oCiL0XbFTgoAgfDJKh4Ga88LH-tJ0_pAVsluHQn0yV5bRp7biBxB2f3x2sYF4g"
+    ],
+    "source": "Google",
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJcnNMdTF3RRAB",
+    "user": {
+      "name": "Civic",
+      "link": "https://www.google.com/maps/contrib/105856942603600631751?hl=en",
+      "contributor_id": "105856942603600631751",
+      "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWRbloW8fF3aUPtm1YZZLfISvUNjoYNesoG1xwvHyKfhj-HCY0=s120-c-rp-mo-ba4-br100",
+      "local_guide": true,
+      "reviews": 71,
+      "photos": 293
+    },
+    "snippet": "Came in for some shaved ice cream for the kids.\n\nOrdered\n\nCookie n Cream\nMango madness\nGrape Hulu\n\nI expected better. The shaved ice cream was the base and they just topped it with flavored syrup and bits.\n\nVery big portion. It's enough for 2 people.\n\nBig dining area. No parking. 2 unisex bathroom. Order up front and you grab your order in back.",
+    "extracted_snippet": {
+      "original": "Came in for some shaved ice cream for the kids.\n\nOrdered\n\nCookie n Cream\nMango madness\nGrape Hulu\n\nI expected better. The shaved ice cream was the base and they just topped it with flavored syrup and bits.\n\nVery big portion. It's enough for 2 people.\n\nBig dining area. No parking. 2 unisex bathroom. Order up front and you grab your order in back."
+    },
+    "details": {
+      "food": 3,
+      "service": 5,
+      "atmosphere": 5
+    },
+    "_matched_query": "cookie",
+    "_matched_variants": [
+      "cookie"
+    ]
+  },
+  {
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURQaXJidERREAE!2m1!1s0x0:0xea388e8841a2955e!3m1!1s2@1:CIHM0ogKEICAgIDPirbtDQ%7CCgsI0LSuugYQsLm1Ag%7C?hl=en",
+    "rating": 5.0,
+    "date": "a year ago",
+    "iso_date": "2024-11-30T23:05:52Z",
+    "iso_date_of_last_edit": "2024-11-30T23:05:52Z",
+    "images": [
+      "https://lh3.googleusercontent.com/geougc-cs/AMBA38v_SNtPLiaBsPNejG63Gi4l2taNIj0CC04iFnM37AbcjYMPHKyb0apkrNOS2EU5YF208H63UWQHigjiNE3LE1hfid2PURrsKxliluCkrxdJEU972OAvh_kn_NfrMBDKjeQ-0NAgcw",
+      "https://lh3.googleusercontent.com/geougc-cs/AMBA38vWsePMwfwUSTdPpQM0Q4vRBVM79Bw7NyqAZjuyfUhxPXKNtLg5VpzFYm93pwUEFJTgd2j58AoOMuwdaQxH_MbATavr0CSHtC43heharX3yCcP-XAZxcFl-qJPt64s0x-lGjqbT",
+      "https://lh3.googleusercontent.com/geougc-cs/AMBA38vYCXXiLnGs4P0zWGYJC5BYAqRnaCU1FQNNoztHGqGegEqjDYQorb9FAvlH_kgMM0P0T2690aPdQpvIyXLG1-Zt6AwmlQKhATYnnOMf5SYmtKkAL0Dy1w0s0gnkQ4GE4GFbKIqR"
+    ],
+    "source": "Google",
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQaXJidERREAE",
+    "user": {
+      "name": "Nick S",
+      "link": "https://www.google.com/maps/contrib/115044447080496717666?hl=en",
+      "contributor_id": "115044447080496717666",
+      "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXlTttR_6suCv1G3uNxETp00P_1rjkvOx-Lx_2z_EIO0zj904c=s120-c-rp-mo-ba6-br100",
+      "local_guide": true,
+      "reviews": 565,
+      "photos": 2671
+    },
+    "snippet": "Grace Street is a very popular dessert place located in the heart of Koreatown, serving a variety of goods such as Coffees, Milk Teas, Shaved Ice, and Waffles. We arrived around 6 PM, and it was still pretty packed, but by the time we left, the line was way out the door.\n\nThe servings are pretty large for the price, and we had to share some of the dishes to finish them. We got the Churro Waffles and the Cookie Monster. The Churro Waffles were pretty good, with a nice dip and ice cream served on the side. The dusting of churro powder wasn't overwhelming or too sweet.\n\nThe Cookie Monster shaved ice consisted of a vanilla shaved ice drizzled with chocolate syrup, and had two different toppings: oreo crumbs and mini M&M crushed pieces. The ice cream was a bit harder to scoop into with a spoon without it almost falling over, but a fork worked well to grab the pieces. It was light and fluffy, and went well with the toppings.\n\nService is good, they bring you to the table (if there is one available) and you may need to share the table with another group, but the dishes come out quickly and don't melt right away. Overall a great dessert spot after dinner or a casual date spot.",
+    "extracted_snippet": {
+      "original": "Grace Street is a very popular dessert place located in the heart of Koreatown, serving a variety of goods such as Coffees, Milk Teas, Shaved Ice, and Waffles. We arrived around 6 PM, and it was still pretty packed, but by the time we left, the line was way out the door.\n\nThe servings are pretty large for the price, and we had to share some of the dishes to finish them. We got the Churro Waffles and the Cookie Monster. The Churro Waffles were pretty good, with a nice dip and ice cream served on the side. The dusting of churro powder wasn't overwhelming or too sweet.\n\nThe Cookie Monster shaved ice consisted of a vanilla shaved ice drizzled with chocolate syrup, and had two different toppings: oreo crumbs and mini M&M crushed pieces. The ice cream was a bit harder to scoop into with a spoon without it almost falling over, but a fork worked well to grab the pieces. It was light and fluffy, and went well with the toppings.\n\nService is good, they bring you to the table (if there is one available) and you may need to share the table with another group, but the dishes come out quickly and don't melt right away. Overall a great dessert spot after dinner or a casual date spot."
+    },
+    "details": {
+      "service": 5,
+      "meal_type": "Other",
+      "price_per_person": "$10–20",
+      "food": 5,
+      "atmosphere": 4,
+      "parking_space": "Difficult to find parking",
+      "parking_options": "Paid street parking"
+    },
+    "_matched_query": "cookie",
+    "_matched_variants": [
+      "cookie"
+    ]
+  },
+  {
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURWaTctYmZ3EAE!2m1!1s0x0:0xea388e8841a2955e!3m1!1s2@1:CIHM0ogKEICAgIDVi7-bfw%7CCgsIs_fzqwYQ8ObpOA%7C?hl=en",
+    "rating": 4.0,
+    "date": "2 years ago",
+    "iso_date": "2023-12-16T01:21:55Z",
+    "iso_date_of_last_edit": "2023-12-16T01:21:55Z",
+    "images": [
+      "https://lh3.googleusercontent.com/geougc-cs/AMBA38ufEnLSBCUhMAWm6G5Mz451Hotzs5PYi372Etob8TEIFU-Kvv7Krd6R-Ef5_FB3FlAnvsx8DlEhji-mF9L5pZtnqsyC_n_5t2YKIqF6-Rz3frmeo_Da1s54-ksyjO19ZZoItB4ICg",
+      "https://lh3.googleusercontent.com/geougc-cs/AMBA38tTCa-QQS4WFdkFkbzNy-hj5gmsM9LQjR-tFPvi_DhHvyOIeHaQkTUdMa4EVTa_5z56Sm8MkZ5-jyKxgsX-SrRnV6z7BeCj_Rmwu0J1r0gHImqmk0s5mbwTYk9xFsuwFyz3X5Mm"
+    ],
+    "source": "Google",
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURWaTctYmZ3EAE",
+    "user": {
+      "name": "Khanh Ha Nguyen (Hannah)",
+      "link": "https://www.google.com/maps/contrib/113775469014820435901?hl=en",
+      "contributor_id": "113775469014820435901",
+      "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjW9gFtrB336oiev4oQEyMkdU6QlT19Vnf5WYTFowzYmCdwnjopvoA=s120-c-rp-mo-ba3-br100",
+      "local_guide": true,
+      "reviews": 41,
+      "photos": 104
+    },
+    "snippet": "I lost count of how many times I have been to Grace Street. Grace Street is my absolute favorite place to opt for desserts, and it’s an amazing choice to if you are looking for a place to catch up with friends. Yes, it’s a little pricey, but the amount of portions is humongous. I absolutely adore their bingsu, which is what they are famous for, and I have tried three flavors except the Cookie Monster and the O.G. I definitely would love to try their Milk Tea Boba Toast, which is another dessert that they are popular for!\n\nThis is my classic go-to for a casual place to eat. My friends love it. My family loves it.",
+    "extracted_snippet": {
+      "original": "I lost count of how many times I have been to Grace Street. Grace Street is my absolute favorite place to opt for desserts, and it’s an amazing choice to if you are looking for a place to catch up with friends. Yes, it’s a little pricey, but the amount of portions is humongous. I absolutely adore their bingsu, which is what they are famous for, and I have tried three flavors except the Cookie Monster and the O.G. I definitely would love to try their Milk Tea Boba Toast, which is another dessert that they are popular for!\n\nThis is my classic go-to for a casual place to eat. My friends love it. My family loves it."
+    },
+    "details": {
+      "service": 5,
+      "price_per_person": "$10–20",
+      "food": 5,
+      "atmosphere": 4,
+      "recommended_dishes": "Elixir"
+    },
+    "_matched_query": "cookie",
+    "_matched_variants": [
+      "cookie"
+    ]
+  },
+  {
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNicWJib2VBEAE!2m1!1s0x0:0xea388e8841a2955e!3m1!1s2@1:CIHM0ogKEICAgICbqbboeA%7CCgwIsZ2atQYQuKuBsgE%7C?hl=en",
+    "rating": 5.0,
+    "date": "a year ago",
+    "iso_date": "2024-07-28T18:04:25Z",
+    "iso_date_of_last_edit": "2024-07-28T18:32:17Z",
+    "images": [
+      "https://lh3.googleusercontent.com/geougc-cs/AMBA38tHM_14wFIWSlBILEiOe99QrZc5NIEWCKsujpywFVqjrHS_64YuTibnvyLe3DJnbimIKjo8PlslqOGIHtUMSOUeQbxQy7buZ6LRk-WwnNjWKgGlB8FDEQcOmTuJ0TMZgICQrjpyoQ",
+      "https://lh3.googleusercontent.com/geougc-cs/AMBA38tqLZpeo84w41JPa8y3isj4_ean6E2tYZK6vymEm9CsHEguBub2Kk4aqN-mp7jAbRZRBfTs_-1Y3gKFvElsdYsCZnYKrILb61nZsXPhfODCNpG1SMxE_mCUqVJzJRzlz8ji8Zc",
+      "https://lh3.googleusercontent.com/geougc-cs/AMBA38skgbv9G2ZiaLB6XbqjbUnhmkNs3_0RDT90Uaz7GsyKz-y0oLoHbujFYrJ_0JatzSYEBBB7pAH3C_V0HQ_x7LQcDQ5tcwhOzTGnrSYD3y-um-O0hgiKo1oz5Z8mZVcfAEC0BDEh",
+      "https://lh3.googleusercontent.com/geougc-cs/AMBA38sQGmAgUJznU0Y1cSrHCMil0mocg6-KRucusT6ReQ0R2HmG5MqJKmGLHZoEqiRTMBR0cM-nesgKTDei4NtJ2E_O2Wo5VOdNlTpnsmJVf7S-Fc_NPiBO-Z6tnYNWl2JZlGtxwPjJ",
+      "https://lh3.googleusercontent.com/geougc-cs/AMBA38sdimNreNU6gktPPKu0aSZ2wBZVOzArJnD34zakYMFQ2X-HmH836Yj1I5-cJ3A03h0TAICuLGXAtbEEh1QlRDSkKUkKOYshZD9EUIpxsoa0wkgstoDxQPvVljSfB20ByJiI6tm_2A",
+      "https://lh3.googleusercontent.com/geougc-cs/AMBA38t_oIhd6MveFEzB901znoDluxAhH4EbvwFFdORrIe-A999IJcWJfJ4a-RUjJNPZeOtM2vpsY5zQSLKUJtT28Bbty6WOM_J_FSXF3zhkJuitS14zm2ke-RhDSHRHEb3wMuITIsm1",
+      "https://lh3.googleusercontent.com/geougc-cs/AMBA38thioylvhfLC2-vSfL2wsK4UQHBzT8qsrh1oiph9hhOR8tcAJQEQizFF9t1iuvb0g-tML2HTEqnfMB_qcdiuWzDH39SwHxOvrZFj9roK2-8x0qEjjhUoXhbGDgCrHpc8pAZtXjn"
+    ],
+    "source": "Google",
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNicWJib2VBEAE",
+    "user": {
+      "name": "Rich de la Torre",
+      "link": "https://www.google.com/maps/contrib/104942185830792236752?hl=en",
+      "contributor_id": "104942185830792236752",
+      "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJ_1_pt5vuEov_GZhyMqxCBautSLkgQltlHxI3ej2pl_yahB0JF=s120-c-rp-mo-ba5-br100",
+      "local_guide": true,
+      "reviews": 189,
+      "photos": 1278
+    },
+    "snippet": "Are you walking around in this debilitating heat and need a cool dessert but want to try something new? Grace Street is THE place to go! Especially, if you have kids - they'll love what this place has to offer.\n\nGet off your train at Penn Station and walk a few blocks to K-town and you'll find this hype-deserving coffee and dessert shop. As soon as you walk into the small lobby, you're given menus and you pay up front. You're given a buzzer and seat yourself in the dining area. It's spacious with many tables, clean and bright. I appreciated that there are a couple of free water stations.\n\nNow, If you're familiar with Asian cultures, you know that each one has a shaved ice dessert to help to beat the heat. Grace Street, has several \"shaved snows\" that give a spin on the original Korean patbingsu dessert. We ordered a couple: The \"O.G\" - black sesame snow (like a lighter, more delicate peanut butter flavor), mochi, red beans, strawberries, condensed milk and misugaru (powdered roasted grains give a nutty, earthy, slightly sweet taste) and the \"Cookie Monster\" -  sweet milk snow, M&Ms, crushed Oreos, dark chocolate drizzle, and whipped cream. I highly recommend both!\n\nWe also ordered tang hulu (chilled, skewered fruits dipped in melted sugar, creating a fun, crackly and refreshing dessert) and a \"flight\" of assorted mochi ice creams.\n\nWhen your buzzer gives you the signal, you go to the bar at the far end of the dining area to pick up your order.\n\nAt first sight, your towering, well-accoutered shaved snows will cause your everyone's eyes to widen and all will exclaim \"ooh\", \"wow\" or \"whoa.\". They really are a spectacle. One snow could be  good for two people... if you really want to share. What's great is that the texture and consistency of the snow is not like Western ice-cream or gelato: although creamy, you can eat a larger volume than ice cream because these shaved snows are lighter and fluffier - you could eat the whole thing if you really wanted. I almost did, but my wife thought otherwise.\n\nEating the tang hulu is fun - bare your teeth and take a big bite! Spread a napkin on the table to catch the large pieces of falling sugar!\n\nSummer of 2024 broke heat records! I don't know if we can alleviate the global temperature but you CAN alleviate your personal temperature (and even your climate-change anxiety) by visiting Grace Street!",
+    "extracted_snippet": {
+      "original": "Are you walking around in this debilitating heat and need a cool dessert but want to try something new? Grace Street is THE place to go! Especially, if you have kids - they'll love what this place has to offer.\n\nGet off your train at Penn Station and walk a few blocks to K-town and you'll find this hype-deserving coffee and dessert shop. As soon as you walk into the small lobby, you're given menus and you pay up front. You're given a buzzer and seat yourself in the dining area. It's spacious with many tables, clean and bright. I appreciated that there are a couple of free water stations.\n\nNow, If you're familiar with Asian cultures, you know that each one has a shaved ice dessert to help to beat the heat. Grace Street, has several \"shaved snows\" that give a spin on the original Korean patbingsu dessert. We ordered a couple: The \"O.G\" - black sesame snow (like a lighter, more delicate peanut butter flavor), mochi, red beans, strawberries, condensed milk and misugaru (powdered roasted grains give a nutty, earthy, slightly sweet taste) and the \"Cookie Monster\" -  sweet milk snow, M&Ms, crushed Oreos, dark chocolate drizzle, and whipped cream. I highly recommend both!\n\nWe also ordered tang hulu (chilled, skewered fruits dipped in melted sugar, creating a fun, crackly and refreshing dessert) and a \"flight\" of assorted mochi ice creams.\n\nWhen your buzzer gives you the signal, you go to the bar at the far end of the dining area to pick up your order.\n\nAt first sight, your towering, well-accoutered shaved snows will cause your everyone's eyes to widen and all will exclaim \"ooh\", \"wow\" or \"whoa.\". They really are a spectacle. One snow could be  good for two people... if you really want to share. What's great is that the texture and consistency of the snow is not like Western ice-cream or gelato: although creamy, you can eat a larger volume than ice cream because these shaved snows are lighter and fluffier - you could eat the whole thing if you really wanted. I almost did, but my wife thought otherwise.\n\nEating the tang hulu is fun - bare your teeth and take a big bite! Spread a napkin on the table to catch the large pieces of falling sugar!\n\nSummer of 2024 broke heat records! I don't know if we can alleviate the global temperature but you CAN alleviate your personal temperature (and even your climate-change anxiety) by visiting Grace Street!"
+    },
+    "details": {
+      "service": 5,
+      "food": 5,
+      "atmosphere": 5
+    },
+    "_matched_query": "cookie",
+    "_matched_variants": [
+      "cookie"
+    ]
+  },
+  {
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VNSHlob2VoXzQyb21nRRAB!2m1!1s0x0:0xea388e8841a2955e!3m1!1s2@1:CIHM0ogKEMHyhoeh_42omgE%7CCgwI1c-PwQYQ2IjSyAE%7C?hl=en",
+    "rating": 3.0,
+    "date": "7 months ago",
+    "iso_date": "2025-05-14T00:46:13Z",
+    "iso_date_of_last_edit": "2025-05-14T00:46:13Z",
+    "images": [
+      "https://lh3.googleusercontent.com/geougc-cs/AMBA38stBywT28dvDPF4mjUvf0dPXpbyd_k0QMOoNZ9jwFh-EDP_055y-nNLF9sKEvgLToB-bAt-pz2m8TVja1sfdXkl0RQ1EP1T5X9C3IL3bCqePEWutgCwsUA90pdBFwsw8UNKvBRf"
+    ],
+    "source": "Google",
+    "review_id": "ChdDSUhNMG9nS0VNSHlob2VoXzQyb21nRRAB",
+    "user": {
+      "name": "Sergey Butenco",
+      "link": "https://www.google.com/maps/contrib/114553113557297916779?hl=en",
+      "contributor_id": "114553113557297916779",
+      "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKpKOWUadQauIB-93G-EMAaEdVVAcNvSmGAvSVCLwzE7QZH=s120-c-rp-mo-ba5-br100",
+      "local_guide": true,
+      "reviews": 149,
+      "photos": 343
+    },
+    "snippet": "We ordered burnt cheesecake and Cookie Monster shaved snow along with rose and lavender milk tea. I think the experience was pretty ordinary. I was not super impressed by either food or drink options, thus, giving three stars.",
+    "extracted_snippet": {
+      "original": "We ordered burnt cheesecake and Cookie Monster shaved snow along with rose and lavender milk tea. I think the experience was pretty ordinary. I was not super impressed by either food or drink options, thus, giving three stars."
+    },
+    "details": {
+      "meal_type": "Dinner",
+      "price_per_person": "$10–20",
+      "food": 3,
+      "service": 3,
+      "atmosphere": 3,
+      "wait_time": "No wait"
+    },
+    "_matched_query": "cookie",
+    "_matched_variants": [
+      "cookie"
+    ]
+  }
+]

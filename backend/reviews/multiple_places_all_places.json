@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Masala Street Eatery",
+    "data_id": "0x89b7b7fe5b17ff5b:0xee4a076fbb195e52",
+    "rating": 4.5,
+    "reviews_count": 265
+  },
+  {
+    "title": "Rasika West End",
+    "data_id": "0x89b7b7b6fa3a4b31:0x3598c466df89eab9",
+    "rating": 4.3,
+    "reviews_count": 2371
+  },
+  {
+    "title": "Herbivore Indian Cuisine (Vegetarian & Non-Vegetarian)",
+    "data_id": "0x89b7b79515b6fbf3:0xf46b2cd8ec5833b5",
+    "rating": 4.7,
+    "reviews_count": 1025
+  },
+  {
+    "title": "Curry N Pie - Asian Fusion",
+    "data_id": "0x89b7b64602afb633:0x87ca6bf1952e2395",
+    "rating": 4.3,
+    "reviews_count": 1018
+  },
+  {
+    "title": "Taj of India Cuisine",
+    "data_id": "0x89b7b64b3b1fa9f5:0x80a241ee2cfd42ec",
+    "rating": 4,
+    "reviews_count": 935
+  }
+]
