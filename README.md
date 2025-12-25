@@ -11,11 +11,6 @@ By extracting a clear signal from noisy reviews, FlavorSignal helps users cut th
 - Summarize only the reviews that actually mention your dish—even when people use different names or terms (e.g., searches for hot chocolate also capture mentions of hot cocoa) i.e. semantic filtering before summarization.
 - Get a clear, item-level summary with key positives, negatives, and common complaints, so you can decide without reading every review.
 
-## Requirements
-- Python 3.10+.
-- Core pip packages: `serpapi`, `requests`, `sentence-transformers` (pulls PyTorch), plus their transitive deps.
-- Running Ollama with the `phi3:mini` model pulled locally for the default workflow.
-
 ## APIs used
 - SerpAPI Google Maps and Google Maps Reviews endpoints for place search and review retrieval.
 - Ollama local generation HTTP API (defaults to `phi3:mini`).
