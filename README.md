@@ -35,7 +35,7 @@ Below are screenshots of the current Flavor Signal interface, showcasing the min
    - `OLLAMA_MODEL` (default `phi3:mini`).
 4) Ensure Ollama is installed and running and the chosen model is available.
 
-## Future Scope / TODO
+## TODO
 
 Flavor Signal currently runs on a local setup with an RTX 3070. While this setup works well for experimentation and correctness, local LLM inference introduces noticeable latency during summarization. Reducing end-to-end response time is a key focus going forward.
 
